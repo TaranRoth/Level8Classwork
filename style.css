@@ -1,0 +1,22 @@
+.titlecontainer {
+    display: block;
+    text-align: center;
+}
+
+.titlecontent {
+    display: inline;
+    padding: 3px 6px 3px 6px;
+}
+
+body {
+    text-align: center;
+}
+
+#mainimg {
+    height: 500px;
+}
+
+#thumbs img {
+    width: 10%;
+    padding: 5px;
+}

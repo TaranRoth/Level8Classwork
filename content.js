@@ -1,0 +1,1 @@
+const THUMBS = ['aang.jpg', 'batman.jpg', 'clara.jpg', 'doctor.jpg', 'hansolo.jpg', 'indianajones.jpg', 'kirk.jpg', 'moonknight.jpg', 'rey.jpg', 'rickgrimes.jpg', 'ripley.jpg', 'uhura.jpg'];
